@@ -1,6 +1,7 @@
 # ALX PRINTF PROJECT
 
 ## Collaborators
-. Gloria Gitonga
-. Sebastian Muchui
+	. Gloria Gitonga
+
+	. Sebastian Muchui
 
